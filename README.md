@@ -29,10 +29,8 @@ Sistema de gestión de inventario del lado del cliente construido con JavaScript
 ---
 
 
-<img width="1684" height="912" alt="Captura de pantalla 2026-05-25 a la(s) 9 43 36 p m" src="https://github.com/user-attachments/assets/3d353656-c99b-4c68-9cfd-c2a45683092c" />
+<img width="1205" height="948" alt="Captura de pantalla 2026-05-25 a la(s) 9 44 53 p m" src="https://github.com/user-attachments/assets/af5281d2-a553-4a07-8013-f81da08d0b58" />
 
-
----
 
 ## Cómo usar el proyecto
 
