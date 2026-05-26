@@ -28,11 +28,9 @@ Sistema de gestión de inventario del lado del cliente construido con JavaScript
 
 ---
 
-## Capturas
 
-| Formulario | Lista de productos |
-|---|---|
-| ![Vista formulario](./screenshots/01-form.png) | ![Vista lista](./screenshots/02-list.png) |
+<img width="1684" height="912" alt="Captura de pantalla 2026-05-25 a la(s) 9 43 36 p m" src="https://github.com/user-attachments/assets/3d353656-c99b-4c68-9cfd-c2a45683092c" />
+
 
 ---
 
